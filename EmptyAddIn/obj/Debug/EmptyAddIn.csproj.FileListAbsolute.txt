@@ -1,0 +1,12 @@
+C:\Users\apino\dev\empty_solid_edge_addin\EmptyAddIn\obj\Debug\EmptyAddIn.csproj.AssemblyReference.cache
+C:\Users\apino\dev\empty_solid_edge_addin\EmptyAddIn\obj\Debug\Interop.SolidEdgeAssembly.dll
+C:\Users\apino\dev\empty_solid_edge_addin\EmptyAddIn\obj\Debug\Interop.SolidEdgeConstants.dll
+C:\Users\apino\dev\empty_solid_edge_addin\EmptyAddIn\obj\Debug\Interop.SolidEdgeDraft.dll
+C:\Users\apino\dev\empty_solid_edge_addin\EmptyAddIn\obj\Debug\Interop.SolidEdgeFramework.dll
+C:\Users\apino\dev\empty_solid_edge_addin\EmptyAddIn\obj\Debug\Interop.SolidEdgeFrameworkSupport.dll
+C:\Users\apino\dev\empty_solid_edge_addin\EmptyAddIn\obj\Debug\Interop.SolidEdgeGeometry.dll
+C:\Users\apino\dev\empty_solid_edge_addin\EmptyAddIn\obj\Debug\Interop.SolidEdgePart.dll
+C:\Users\apino\dev\empty_solid_edge_addin\EmptyAddIn\obj\Debug\EmptyAddIn.csproj.ResolveComReference.cache
+C:\Users\apino\dev\empty_solid_edge_addin\EmptyAddIn\obj\Debug\EmptyAddIn.Properties.Resources.resources
+C:\Users\apino\dev\empty_solid_edge_addin\EmptyAddIn\obj\Debug\EmptyAddIn.csproj.GenerateResource.cache
+C:\Users\apino\dev\empty_solid_edge_addin\EmptyAddIn\obj\Debug\EmptyAddIn.csproj.CoreCompileInputs.cache
